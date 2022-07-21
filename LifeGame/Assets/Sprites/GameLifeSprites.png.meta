@@ -1,0 +1,2088 @@
+fileFormatVersion: 2
+guid: 84a89734b9f81dc469bc70f84f49b1c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7488728874895345560
+    second: GameLifeSprites_0
+  - first:
+      213: 3020554495706316541
+    second: GameLifeSprites_1
+  - first:
+      213: -969114097218223003
+    second: GameLifeSprites_2
+  - first:
+      213: -3756727355653239256
+    second: GameLifeSprites_3
+  - first:
+      213: 3098332980279734087
+    second: GameLifeSprites_4
+  - first:
+      213: 4855495038264120731
+    second: GameLifeSprites_5
+  - first:
+      213: 6643129633880020195
+    second: GameLifeSprites_6
+  - first:
+      213: 6931247139548380291
+    second: GameLifeSprites_7
+  - first:
+      213: -6653453348925089005
+    second: GameLifeSprites_8
+  - first:
+      213: 4684066200965949486
+    second: GameLifeSprites_9
+  - first:
+      213: 9198352655618581226
+    second: GameLifeSprites_10
+  - first:
+      213: 660603512210382482
+    second: GameLifeSprites_11
+  - first:
+      213: -3374929158214076474
+    second: GameLifeSprites_12
+  - first:
+      213: -4852272586048142901
+    second: GameLifeSprites_13
+  - first:
+      213: 3224275212551788311
+    second: GameLifeSprites_14
+  - first:
+      213: -7182671724906846395
+    second: GameLifeSprites_15
+  - first:
+      213: 9064918168123724551
+    second: GameLifeSprites_16
+  - first:
+      213: -616686788411556742
+    second: GameLifeSprites_17
+  - first:
+      213: -2230028642919887202
+    second: GameLifeSprites_18
+  - first:
+      213: -5290328698639568768
+    second: GameLifeSprites_19
+  - first:
+      213: -3528899203699134270
+    second: GameLifeSprites_20
+  - first:
+      213: 4151004679915817363
+    second: GameLifeSprites_21
+  - first:
+      213: 3458093971259463322
+    second: GameLifeSprites_22
+  - first:
+      213: -2693481402815994295
+    second: GameLifeSprites_23
+  - first:
+      213: 6418919409150640327
+    second: GameLifeSprites_24
+  - first:
+      213: -9035711520227497283
+    second: GameLifeSprites_25
+  - first:
+      213: -1657623929021389625
+    second: GameLifeSprites_26
+  - first:
+      213: 4387170019121123671
+    second: GameLifeSprites_27
+  - first:
+      213: 8243139062283682515
+    second: GameLifeSprites_28
+  - first:
+      213: 3400036230020066926
+    second: GameLifeSprites_29
+  - first:
+      213: 7309166475209056459
+    second: GameLifeSprites_30
+  - first:
+      213: -7335625274332055984
+    second: GameLifeSprites_31
+  - first:
+      213: -1832637728091070288
+    second: GameLifeSprites_32
+  - first:
+      213: 6506958478303313082
+    second: GameLifeSprites_33
+  - first:
+      213: -8487644499781130845
+    second: GameLifeSprites_34
+  - first:
+      213: -333120226382007724
+    second: GameLifeSprites_35
+  - first:
+      213: -2876696710553564896
+    second: GameLifeSprites_36
+  - first:
+      213: 7914536227450993070
+    second: GameLifeSprites_37
+  - first:
+      213: -5131096697309852269
+    second: GameLifeSprites_38
+  - first:
+      213: -1325396008308837873
+    second: GameLifeSprites_39
+  - first:
+      213: -1435479093596400270
+    second: GameLifeSprites_40
+  - first:
+      213: 1753593306810786440
+    second: GameLifeSprites_41
+  - first:
+      213: -6754534578581841166
+    second: GameLifeSprites_42
+  - first:
+      213: -2256604742099188909
+    second: GameLifeSprites_43
+  - first:
+      213: 8908036298399282590
+    second: GameLifeSprites_44
+  - first:
+      213: -6990466929057687837
+    second: GameLifeSprites_45
+  - first:
+      213: 545346866632446627
+    second: GameLifeSprites_46
+  - first:
+      213: -2557374663942250129
+    second: GameLifeSprites_47
+  - first:
+      213: -4892839966299592860
+    second: GameLifeSprites_48
+  - first:
+      213: -9190672004269909005
+    second: GameLifeSprites_49
+  - first:
+      213: 298868264243897117
+    second: GameLifeSprites_50
+  - first:
+      213: -5663124301984225446
+    second: GameLifeSprites_51
+  - first:
+      213: -2497337066404757371
+    second: GameLifeSprites_52
+  - first:
+      213: 6110368798426354167
+    second: GameLifeSprites_53
+  - first:
+      213: -2800040427426710576
+    second: GameLifeSprites_54
+  - first:
+      213: 7112379874283234349
+    second: GameLifeSprites_55
+  - first:
+      213: 919000412167772907
+    second: GameLifeSprites_56
+  - first:
+      213: 4134917554775214619
+    second: GameLifeSprites_57
+  - first:
+      213: -4055384456971215496
+    second: GameLifeSprites_58
+  - first:
+      213: -8431953939631008165
+    second: GameLifeSprites_59
+  - first:
+      213: 9024054687742649259
+    second: GameLifeSprites_60
+  - first:
+      213: 1607304799333261446
+    second: GameLifeSprites_61
+  - first:
+      213: 3116300170406225559
+    second: GameLifeSprites_62
+  - first:
+      213: -5100177487508640331
+    second: GameLifeSprites_63
+  - first:
+      213: -2425327344183418690
+    second: GameLifeSprites_64
+  - first:
+      213: -114287956857530054
+    second: GameLifeSprites_65
+  - first:
+      213: 7061775028173662479
+    second: GameLifeSprites_66
+  - first:
+      213: 5746405252898439481
+    second: GameLifeSprites_67
+  - first:
+      213: -8721716823461548507
+    second: GameLifeSprites_68
+  - first:
+      213: 7742924374778701316
+    second: GameLifeSprites_69
+  - first:
+      213: -4086385585271319246
+    second: GameLifeSprites_70
+  - first:
+      213: 5834858612598993605
+    second: GameLifeSprites_71
+  - first:
+      213: 3150342624754329730
+    second: GameLifeSprites_72
+  - first:
+      213: 1113795621173708929
+    second: GameLifeSprites_73
+  - first:
+      213: 57642906525796098
+    second: GameLifeSprites_74
+  - first:
+      213: -1447429291971219729
+    second: GameLifeSprites_75
+  - first:
+      213: 6898945321777762236
+    second: GameLifeSprites_76
+  - first:
+      213: 7367158996894584748
+    second: GameLifeSprites_77
+  - first:
+      213: -6971969372818839470
+    second: GameLifeSprites_78
+  - first:
+      213: 3364940331590000159
+    second: GameLifeSprites_79
+  - first:
+      213: 3251159188006992329
+    second: GameLifeSprites_80
+  - first:
+      213: 3615194715704450341
+    second: GameLifeSprites_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameLifeSprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89709571c3f4de760800000000000000
+      internalID: 7488728874895345560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfeb84d6f4a2be920800000000000000
+      internalID: 3020554495706316541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5640c78fcd30d82f0800000000000000
+      internalID: -969114097218223003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ecb40cf5c6ddbc0800000000000000
+      internalID: -3756727355653239256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f637d0e6d7ffa20800000000000000
+      internalID: 3098332980279734087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b959764030f226340800000000000000
+      internalID: 4855495038264120731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e41a488433213c50800000000000000
+      internalID: 6643129633880020195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c3933dc8cb03060800000000000000
+      internalID: 6931247139548380291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bdfaf3e6f2aa3a0800000000000000
+      internalID: -6653453348925089005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e282dfc7465210140800000000000000
+      internalID: 4684066200965949486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_10
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2aaec510d17af70800000000000000
+      internalID: 9198352655618581226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29edca2f46fea2900800000000000000
+      internalID: 660603512210382482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7ba8ecfc7d921d0800000000000000
+      internalID: -3374929158214076474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 203
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc10c3b9ac349acb0800000000000000
+      internalID: -4852272586048142901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 203
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7171f3e093deebc20800000000000000
+      internalID: 3224275212551788311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5476fa22f16025c90800000000000000
+      internalID: -7182671724906846395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703dff0cb0f0dcd70800000000000000
+      internalID: 9064918168123724551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c7d0f12a61177f0800000000000000
+      internalID: -616686788411556742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 166
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e40d3b3c85d01e0800000000000000
+      internalID: -2230028642919887202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 166
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080b884f31af496b0800000000000000
+      internalID: -5290328698639568768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_20
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 167
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0ba530fd4d60fc0800000000000000
+      internalID: -3528899203699134270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 147
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399cd5f63c45b9930800000000000000
+      internalID: 4151004679915817363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9617d4252e9dff20800000000000000
+      internalID: 3458093971259463322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 147
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94628005fe4de9ad0800000000000000
+      internalID: -2693481402815994295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0c8489135941950800000000000000
+      internalID: 6418919409150640327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 188
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba6fefde34ba9280800000000000000
+      internalID: -9035711520227497283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c42e7ba1dfeef8e0800000000000000
+      internalID: -1657623929021389625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75155fe53eb52ec30800000000000000
+      internalID: 4387170019121123671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c0999d43856270800000000000000
+      internalID: 8243139062283682515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 116
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eedc1efea5f2f20800000000000000
+      internalID: 3400036230020066926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc0a70ffe206f6560800000000000000
+      internalID: 7309166475209056459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0567f06cdaf923a90800000000000000
+      internalID: -7335625274332055984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0272f22b92196e0800000000000000
+      internalID: -1832637728091070288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_33
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc3c7bb24c5d4a50800000000000000
+      internalID: 6506958478303313082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_34
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a56fb20c44d53a80800000000000000
+      internalID: -8487644499781130845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_35
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452b0074be4806bf0800000000000000
+      internalID: -333120226382007724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_36
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 155
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0298be8459be318d0800000000000000
+      internalID: -2876696710553564896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_37
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 155
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea93d2f04c416dd60800000000000000
+      internalID: 7914536227450993070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_38
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 155
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d8aa05dbeaac8b0800000000000000
+      internalID: -5131096697309852269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 121
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02f70a4a5f3b9de0800000000000000
+      internalID: -1325396008308837873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 121
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275dfafae57241ce0800000000000000
+      internalID: -1435479093596400270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_41
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 121
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882a5f452d3065810800000000000000
+      internalID: 1753593306810786440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa598c76921342a0800000000000000
+      internalID: -6754534578581841166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_43
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35347bc61fdeea0e0800000000000000
+      internalID: -2256604742099188909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_44
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 221
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95ff5c01d3bf9b70800000000000000
+      internalID: 8908036298399282590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e696677d5fdcfe90800000000000000
+      internalID: -6990466929057687837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_46
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2dff8f516719700800000000000000
+      internalID: 545346866632446627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_47
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 202
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61632eea41628cd0800000000000000
+      internalID: -2557374663942250129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 34
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467e0e959f3291cb0800000000000000
+      internalID: -4892839966299592860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb5d52a18c247080800000000000000
+      internalID: -9190672004269909005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 34
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1325e45a1bc52400800000000000000
+      internalID: 298868264243897117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_51
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57295da37a8861b0800000000000000
+      internalID: -5663124301984225446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 18
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58047886b2da75dd0800000000000000
+      internalID: -2497337066404757371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 18
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f155dc4c046cc450800000000000000
+      internalID: 6110368798426354167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db7f7601124429d0800000000000000
+      internalID: -2800040427426710576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_55
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d242a4a00df34b260800000000000000
+      internalID: 7112379874283234349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea92bb7102f0cc00800000000000000
+      internalID: 919000412167772907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a47ebbb9d226930800000000000000
+      internalID: 4134917554775214619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_58
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d179e925168b7c0800000000000000
+      internalID: -4055384456971215496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 64
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5696d9f09eabfa80800000000000000
+      internalID: -8431953939631008165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_60
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 64
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba369905de1eb3d70800000000000000
+      internalID: 9024054687742649259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_61
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6802a0af23b4e4610800000000000000
+      internalID: 1607304799333261446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_62
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7966d8e7e725f3b20800000000000000
+      internalID: 3116300170406225559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_63
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd6a95d8978839b0800000000000000
+      internalID: -5100177487508640331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_64
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0e7e161a1875ed0800000000000000
+      internalID: -2425327344183418690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_65
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39d66175b7f96ef0800000000000000
+      internalID: -114287956857530054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_66
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09e30629f6700260800000000000000
+      internalID: 7061775028173662479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931437ab1255fbf40800000000000000
+      internalID: 5746405252898439481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_68
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ea60a32cc36f680800000000000000
+      internalID: -8721716823461548507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406e561f1b4647b60800000000000000
+      internalID: 7742924374778701316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_70
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23550a6f5fd3a47c0800000000000000
+      internalID: -4086385585271319246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c277966ef499f050800000000000000
+      internalID: 5834858612598993605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_72
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 34
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e04d0de348bb20800000000000000
+      internalID: 3150342624754329730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_73
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188c170673ff47f00800000000000000
+      internalID: 1113795621173708929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2078a470be9ccc000800000000000000
+      internalID: 57642906525796098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_75
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee6f8e4ab2b9ebe0800000000000000
+      internalID: -1447429291971219729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf086dc73afdbf50800000000000000
+      internalID: 6898945321777762236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf89b523186d3660800000000000000
+      internalID: 7367158996894584748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258ea346bc69e3f90800000000000000
+      internalID: -6971969372818839470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_79
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e9ec2476ba2be20800000000000000
+      internalID: 3364940331590000159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_80
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9776d5e007e1d20800000000000000
+      internalID: 3251159188006992329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLifeSprites_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dde679070cb2230800000000000000
+      internalID: 3615194715704450341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
